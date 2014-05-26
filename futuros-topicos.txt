@@ -1,0 +1,4 @@
+- git push
+- repositórios remotos
+- branches
+- merge / rebase
